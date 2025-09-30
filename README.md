@@ -116,7 +116,9 @@ npm start
 - `npm run lint` - Executa o linter
 
 <img width="745" height="980" alt="image" src="https://github.com/user-attachments/assets/ed5e0d41-9558-4da3-be3a-55b228202608" />
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="754" height="912" alt="image" src="https://github.com/user-attachments/assets/bb519fac-9288-4c46-afdd-ba056cfa53ca" />
+<img width="745" height="980" alt="image" src="https://github.com/user-attachments/assets/a387b90d-6b25-41a3-be11-6d45d7f16e35" />
+
+
 
 
