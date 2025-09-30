@@ -115,15 +115,8 @@ npm start
 - `npm start` - Executa a versão de produção
 - `npm run lint` - Executa o linter
 
-## 🤝 Contribuição
+<img width="745" height="980" alt="image" src="https://github.com/user-attachments/assets/ed5e0d41-9558-4da3-be3a-55b228202608" />
+![Uploading image.png…]()
+![Uploading image.png…]()
 
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.# Atividade_ReactJS
 
